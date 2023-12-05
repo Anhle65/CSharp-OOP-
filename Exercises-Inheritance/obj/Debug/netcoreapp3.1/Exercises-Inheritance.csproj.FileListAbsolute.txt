@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\bin\Debug\netcoreapp3.1\Exercises-Inheritance.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\Exercises-Inheritance\obj\Debug\netcoreapp3.1\Exercises-Inheritance.genruntimeconfig.cache
