@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vCZpKXVwgwziFfq11VDymF/3QWenauONg0Nr5hLUa+2zhILSonYUGMnZCmVjLoMI7W8Q75cVVJZ0NgvD5ewTuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\CSharp-OOP-\\MethodOverriding\\MethodOverriding.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

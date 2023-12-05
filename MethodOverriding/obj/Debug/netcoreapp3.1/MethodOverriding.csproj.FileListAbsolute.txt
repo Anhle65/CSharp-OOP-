@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\bin\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\MethodOverriding\obj\Debug\netcoreapp3.1\MethodOverriding.genruntimeconfig.cache
