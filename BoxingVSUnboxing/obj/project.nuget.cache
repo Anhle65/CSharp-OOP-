@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g1RsyAYX4yGCWNvwJPYS255UMNx2qSFiIclTBvKGDvWq6coaXyIOQhqD1ww4ct96x8gPcI0hE3yKzwSgRMbkvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\OOP\\BoxingVSUnboxing\\BoxingVSUnboxing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

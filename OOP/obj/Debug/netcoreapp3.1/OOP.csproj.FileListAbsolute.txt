@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
