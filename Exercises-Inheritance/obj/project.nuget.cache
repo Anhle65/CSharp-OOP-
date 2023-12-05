@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7a/cNpGbkPuLucKiAGbsy6s26oa6wOby77F+Gys4xlL9aBFLQSoHB5dzt4WN3sEcL8K0/GhT/XkOeRG1R0xEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\OOP\\Exercises-Inheritance\\Exercises-Inheritance.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
