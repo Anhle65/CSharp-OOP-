@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QP+y3h2bNHVfwAE7vLrU4AZCk67PNmJFUklKx+IYaEl/vlpYltAY4BUUb2vWP0+lUA8/sBpbflQPiGniBXwl7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\CSharp-OOP-\\Exercise-Polymorphism\\Exercise-Polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}

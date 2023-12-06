@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\bin\Debug\netcoreapp3.1\Exercise-Polymorphism.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Exercise-Polymorphism\obj\Debug\netcoreapp3.1\Exercise-Polymorphism.genruntimeconfig.cache
