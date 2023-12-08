@@ -9,6 +9,7 @@ namespace MethodOverriding
         static void Main(string[] args)
         {
             var shapes = new List<Shape>();
+            // add a new shape 
             shapes.Add(new Circle());
             shapes.Add(new Triangle());
             
