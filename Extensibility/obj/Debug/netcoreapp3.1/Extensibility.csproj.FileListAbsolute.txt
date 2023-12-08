@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\bin\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\Extensibility\obj\Debug\netcoreapp3.1\Extensibility.genruntimeconfig.cache
