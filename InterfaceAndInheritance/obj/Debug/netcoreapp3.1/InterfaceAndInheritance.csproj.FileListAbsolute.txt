@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\bin\Debug\netcoreapp3.1\InterfaceAndInheritance.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\InterfaceAndInheritance\obj\Debug\netcoreapp3.1\InterfaceAndInheritance.genruntimeconfig.cache
