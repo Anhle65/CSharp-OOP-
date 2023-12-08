@@ -1,0 +1,14 @@
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csproj.AssemblyReference.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfoInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.AssemblyInfo.cs
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.csproj.CoreCompileInputs.cache
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.exe
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.deps.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.runtimeconfig.dev.json
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\bin\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.dll
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.pdb
+C:\Users\Hoang\Desktop\Studying_resources_myself\Tutorial(CSharp)\CSharp-OOP-\WorkflowEngine\obj\Debug\netcoreapp3.1\WorkflowEngine.genruntimeconfig.cache
