@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e8jqA5oGy0AlTG9a8Qe8XcJkLYjZuWlrOWozphDkzf/49JUpTUIXV/0Vh8iGGHK64KXmrdDbZKf2s/VkUPaHMQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hoang\\Desktop\\Studying_resources_myself\\Tutorial(CSharp)\\CSharp-OOP-\\WorkflowEngine\\WorkflowEngine.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hoang\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
